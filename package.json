@@ -1,7 +1,7 @@
 {
-  "name": "parkpoolr_api",
+  "name": "quickstart_api",
   "version": "1.0.0",
-  "description": "API for Parkpoolr",
+  "description": "API for Quick Starting Node Express and PostgreSQL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,14 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/parkpoolr/parkpoolr_api.git"
+    "url": "git+https://github.com/rish-0-0/Node-Postgres-Express.git"
   },
   "author": "Rishabh Anand",
   "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/parkpoolr/parkpoolr_api/issues"
-  },
-  "homepage": "https://gitlab.com/parkpoolr/parkpoolr_api#readme",
   "dependencies": {
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",

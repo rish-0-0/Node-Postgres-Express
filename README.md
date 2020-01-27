@@ -1,4 +1,4 @@
-# Parkpoolr API
+# Node Express and PostgreSQL quick setup. (with babel included)
 > Backend for all Parkpoolr related frontend applications
 ### Setup
 1. `yarn`
