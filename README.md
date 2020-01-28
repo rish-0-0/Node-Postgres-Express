@@ -1,5 +1,5 @@
-# Node Express and PostgreSQL quick setup. (with babel included)
-> Backend for all Parkpoolr related frontend applications
+# Node Express and Sequelize quick setup. (with babel included)
+> Backend boilerplate
 ### Setup
 1. `yarn`
 2. Development Mode: `./dev.sh` or `yarn dev`
